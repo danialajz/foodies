@@ -22,7 +22,7 @@ export default function MealsPage() {
           Choose your favotite recpie and cook it yourself. it is easy and fun!
         </p>
         <p className={classes.cta}>
-          <Link href="/meals">Share Your Favorite Recipe</Link>
+          <Link href="/meals/share">Share Your Favorite Recipe</Link>
         </p>
       </header>
       <main className={classes.main}>
